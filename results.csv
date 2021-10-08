@@ -1,0 +1,301 @@
+name,url,starred,forked,commits,license,last-updated,size,visibility
+JavaGuide,https://github.com/Snailclimb/JavaGuide,111676,38254,3507,Apache License 2.0,2021-10-08T14:48:15Z,56354,public
+java-design-patterns,https://github.com/iluwatar/java-design-patterns,70388,21941,3128,Other,2021-10-08T14:31:41Z,27703,public
+LeetCodeAnimation,https://github.com/MisterBooo/LeetCodeAnimation,67161,12892,245,None,2021-10-08T14:03:06Z,509799,public
+spring-boot,https://github.com/spring-projects/spring-boot,57563,34704,34264,Apache License 2.0,2021-10-08T14:48:57Z,140281,public
+elasticsearch,https://github.com/elastic/elasticsearch,56714,20672,61061,Other,2021-10-08T13:06:58Z,880792,public
+RxJava,https://github.com/ReactiveX/RxJava,45358,7516,5944,Apache License 2.0,2021-10-08T07:28:53Z,131475,public
+spring-framework,https://github.com/spring-projects/spring-framework,44534,31308,22987,Apache License 2.0,2021-10-08T14:49:31Z,169812,public
+Java,https://github.com/TheAlgorithms/Java,41302,13577,1404,MIT License,2021-10-08T14:31:51Z,2156,public
+retrofit,https://github.com/square/retrofit,38826,6978,1918,Apache License 2.0,2021-10-08T14:42:39Z,5673,public
+GitHub-Chinese-Top-Charts,https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts,38814,5522,91,GNU General Public License v3.0,2021-10-08T11:11:22Z,4973,public
+dubbo,https://github.com/apache/dubbo,36246,24146,5056,Apache License 2.0,2021-10-08T12:28:40Z,36870,public
+MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,34048,8524,2070,Other,2021-10-08T07:29:27Z,21720,public
+lottie-android,https://github.com/airbnb/lottie-android,31876,5114,1349,Apache License 2.0,2021-10-08T07:00:10Z,135421,public
+glide,https://github.com/bumptech/glide,31793,5806,2604,Other,2021-10-08T07:42:07Z,91711,public
+hello-algorithm,https://github.com/geekxh/hello-algorithm,28768,5535,390,None,2021-10-08T12:27:48Z,365281,public
+zxing,https://github.com/zxing/zxing,28455,9098,3611,Apache License 2.0,2021-10-08T07:28:15Z,240754,public
+tutorials,https://github.com/eugenp/tutorials,27737,44548,22954,MIT License,2021-10-08T14:35:15Z,325132,public
+netty,https://github.com/netty/netty,27718,13653,10609,Apache License 2.0,2021-10-08T14:36:05Z,73629,public
+jadx,https://github.com/skylot/jadx,27309,3370,1520,Apache License 2.0,2021-10-08T14:47:45Z,17222,public
+arthas,https://github.com/alibaba/arthas,27282,5964,1636,Apache License 2.0,2021-10-08T13:26:51Z,25769,public
+JCSprout,https://github.com/crossoverJie/JCSprout,26434,7122,708,MIT License,2021-10-08T09:40:24Z,1185,public
+butterknife,https://github.com/JakeWharton/butterknife,25738,4751,1016,Apache License 2.0,2021-10-07T14:36:32Z,3909,public
+apollo,https://github.com/apolloconfig/apollo,25706,9393,2597,Apache License 2.0,2021-10-08T13:44:28Z,48436,public
+proxyee-down,https://github.com/proxyee-down-org/proxyee-down,25359,4610,474,Apache License 2.0,2021-10-08T11:08:54Z,26860,public
+jeecg-boot,https://github.com/jeecgboot/jeecg-boot,25238,9795,560,Apache License 2.0,2021-10-08T14:53:36Z,48435,public
+druid,https://github.com/alibaba/druid,24602,7882,6498,Apache License 2.0,2021-10-08T14:48:05Z,65339,public
+fastjson,https://github.com/alibaba/fastjson,23806,6310,3932,Apache License 2.0,2021-10-08T13:35:04Z,15452,public
+EventBus,https://github.com/greenrobot/EventBus,23641,4632,507,Apache License 2.0,2021-10-08T11:04:47Z,1708,public
+spring-boot-demo,https://github.com/xkcoding/spring-boot-demo,23551,8147,733,MIT License,2021-10-08T13:14:03Z,13873,public
+SmartRefreshLayout,https://github.com/scwang90/SmartRefreshLayout,23008,4723,1072,Apache License 2.0,2021-10-07T17:29:57Z,273174,public
+dbeaver,https://github.com/dbeaver/dbeaver,22439,2099,21036,Apache License 2.0,2021-10-08T14:07:57Z,265809,public
+Hystrix,https://github.com/Netflix/Hystrix,22024,4472,2109,Apache License 2.0,2021-10-08T15:03:12Z,9784,public
+miaosha,https://github.com/qiurunze123/miaosha,21872,5658,218,None,2021-10-08T13:52:37Z,65619,public
+SpringAll,https://github.com/wuyouzhuguli/SpringAll,21824,6522,140,MIT License,2021-10-08T15:04:51Z,1089,public
+easyexcel,https://github.com/alibaba/easyexcel,21260,5665,699,Apache License 2.0,2021-10-08T09:48:20Z,25477,public
+Signal-Android,https://github.com/signalapp/Signal-Android,21250,5122,8304,GNU General Public License v3.0,2021-10-08T15:12:05Z,452374,public
+seata,https://github.com/seata/seata,20893,6861,1339,Apache License 2.0,2021-10-08T14:14:39Z,8466,public
+gson,https://github.com/google/gson,20114,3905,1580,Apache License 2.0,2021-10-08T14:21:36Z,10876,public
+kafka,https://github.com/apache/kafka,20062,10613,9479,Apache License 2.0,2021-10-08T10:35:59Z,130859,public
+halo,https://github.com/halo-dev/halo,19836,6824,2025,GNU General Public License v3.0,2021-10-08T12:45:54Z,32695,public
+nacos,https://github.com/alibaba/nacos,19796,8155,3714,Apache License 2.0,2021-10-08T14:01:11Z,42728,public
+xxl-job,https://github.com/xuxueli/xxl-job,19584,8331,1692,GNU General Public License v3.0,2021-10-08T12:16:07Z,32509,public
+RxAndroid,https://github.com/ReactiveX/RxAndroid,19533,3010,518,Apache License 2.0,2021-10-08T08:41:53Z,970,public
+libgdx,https://github.com/libgdx/libgdx,19032,6195,14778,Other,2021-10-08T02:43:44Z,1097150,public
+ExoPlayer,https://github.com/google/ExoPlayer,18343,5386,11890,Apache License 2.0,2021-10-08T12:13:52Z,146891,public
+picasso,https://github.com/square/picasso,18134,4014,1370,Apache License 2.0,2021-10-08T06:08:20Z,4470,public
+DoraemonKit,https://github.com/didi/DoraemonKit,18006,2654,2056,Apache License 2.0,2021-10-08T13:27:48Z,56629,public
+jenkins,https://github.com/jenkinsci/jenkins,17918,7005,31551,MIT License,2021-10-08T10:45:36Z,131873,public
+skywalking,https://github.com/apache/skywalking,17870,5278,6764,Apache License 2.0,2021-10-08T12:47:06Z,161461,public
+redisson,https://github.com/redisson/redisson,17503,4274,6839,Apache License 2.0,2021-10-08T14:52:15Z,18726,public
+Sentinel,https://github.com/alibaba/Sentinel,17468,6113,713,Apache License 2.0,2021-10-08T14:07:05Z,7214,public
+bazel,https://github.com/bazelbuild/bazel,17420,3119,30766,Apache License 2.0,2021-10-08T13:42:13Z,793479,public
+flink,https://github.com/apache/flink,17247,9665,28605,Apache License 2.0,2021-10-08T15:09:44Z,412381,public
+Android-Universal-Image-Loader,https://github.com/nostra13/Android-Universal-Image-Loader,16847,6264,1038,Apache License 2.0,2021-10-08T11:05:06Z,27128,public
+GSYVideoPlayer,https://github.com/CarGuo/GSYVideoPlayer,16732,3682,1367,Apache License 2.0,2021-10-08T14:36:12Z,357538,public
+mybatis-3,https://github.com/mybatis/mybatis-3,16292,11003,3842,Other,2021-10-08T14:14:31Z,110708,public
+zheng,https://github.com/shuzheng/zheng,16101,7459,1241,MIT License,2021-10-08T07:52:58Z,41269,public
+tinker,https://github.com/Tencent/tinker,16043,3213,715,Other,2021-10-08T13:35:23Z,6563,public
+graal,https://github.com/oracle/graal,16018,1227,60326,Other,2021-10-08T14:20:04Z,228028,public
+cat,https://github.com/dianping/cat,15967,4981,7310,Apache License 2.0,2021-10-08T09:05:26Z,113382,public
+rocketmq,https://github.com/apache/rocketmq,15497,8620,1766,Apache License 2.0,2021-10-08T11:57:40Z,10746,public
+java8-tutorial,https://github.com/winterbe/java8-tutorial,15082,3679,149,MIT License,2021-10-08T14:13:06Z,157,public
+Android-CleanArchitecture,https://github.com/android10/Android-CleanArchitecture,14989,3328,248,Apache License 2.0,2021-10-08T12:48:34Z,5191,public
+shardingsphere,https://github.com/apache/shardingsphere,14627,5068,30320,Apache License 2.0,2021-10-08T13:32:22Z,420464,public
+springboot-learning-example,https://github.com/JeffLi1993/springboot-learning-example,14530,6885,166,Apache License 2.0,2021-10-08T08:09:41Z,450,public
+lottie-react-native,https://github.com/lottie-react-native/lottie-react-native,14518,1604,534,Apache License 2.0,2021-10-08T06:44:26Z,192641,public
+disruptor,https://github.com/LMAX-Exchange/disruptor,14131,3448,1248,Apache License 2.0,2021-10-08T07:23:20Z,9533,public
+CircleImageView,https://github.com/hdodenhof/CircleImageView,14043,3072,159,Apache License 2.0,2021-10-08T02:43:53Z,1000,public
+SpringBoot-Learning,https://github.com/dyc87112/SpringBoot-Learning,13629,4474,482,None,2021-10-08T13:31:24Z,34437,public
+Material-Animations,https://github.com/lgvalle/Material-Animations,13588,2543,76,MIT License,2021-10-07T05:14:49Z,8692,public
+ARouter,https://github.com/alibaba/ARouter,13454,2368,300,Apache License 2.0,2021-10-08T07:37:56Z,26582,public
+QMUI_Android,https://github.com/Tencent/QMUI_Android,13193,2512,852,Other,2021-10-08T09:08:31Z,17586,public
+material-components-android,https://github.com/material-components/material-components-android,12889,2512,4161,Apache License 2.0,2021-10-08T10:37:32Z,73749,public
+elasticsearch-analysis-ik,https://github.com/medcl/elasticsearch-analysis-ik,12745,2811,256,Apache License 2.0,2021-10-08T14:27:08Z,7588,public
+Luban,https://github.com/Curzibn/Luban,12699,2129,187,Apache License 2.0,2021-10-08T11:15:31Z,5029,public
+Mindustry,https://github.com/Anuken/Mindustry,12661,1725,12529,GNU General Public License v3.0,2021-10-08T08:04:52Z,1761979,public
+Apktool,https://github.com/iBotPeaches/Apktool,12631,2874,1847,Apache License 2.0,2021-10-08T10:22:29Z,200875,public
+presto,https://github.com/prestodb/presto,12483,4295,19295,Apache License 2.0,2021-10-08T13:29:24Z,156700,public
+bytecode-viewer,https://github.com/Konloch/bytecode-viewer,12469,936,946,GNU General Public License v3.0,2021-10-08T14:36:07Z,647831,public
+greenDAO,https://github.com/greenrobot/greenDAO,12441,2866,883,None,2021-10-08T13:36:09Z,7357,public
+vert.x,https://github.com/eclipse-vertx/vert.x,12397,1852,5111,Other,2021-10-08T09:19:36Z,111332,public
+stetho,https://github.com/facebook/stetho,12370,1137,588,MIT License,2021-10-07T06:45:02Z,2347,public
+VirtualXposed,https://github.com/android-hacker/VirtualXposed,12362,2154,1640,GNU General Public License v3.0,2021-10-08T10:24:59Z,49778,public
+JustAuth,https://github.com/justauth/JustAuth,12239,2193,686,MIT License,2021-10-08T08:51:32Z,9564,public
+deeplearning4j,https://github.com/eclipse/deeplearning4j,12215,4914,2106,Apache License 2.0,2021-10-08T13:41:58Z,681286,public
+Matisse,https://github.com/zhihu/Matisse,12110,1951,223,Apache License 2.0,2021-10-08T09:44:48Z,1991,public
+Arduino,https://github.com/arduino/Arduino,12093,6930,7355,Other,2021-10-08T12:39:28Z,1386135,public
+SpringBoot-Labs,https://github.com/YunaiV/SpringBoot-Labs,12025,3957,671,None,2021-10-08T13:50:56Z,1757,public
+AndroidViewAnimations,https://github.com/daimajia/AndroidViewAnimations,11950,2414,145,MIT License,2021-10-06T03:25:23Z,297,public
+AndroidAutoSize,https://github.com/JessYanCoding/AndroidAutoSize,11891,1719,333,Apache License 2.0,2021-10-08T02:59:23Z,3131,public
+mybatis-plus,https://github.com/baomidou/mybatis-plus,11808,3241,4834,Other,2021-10-08T08:09:59Z,16822,public
+pinpoint,https://github.com/pinpoint-apm/pinpoint,11740,3489,12070,Apache License 2.0,2021-10-08T13:47:28Z,234958,public
+VasSonic,https://github.com/Tencent/VasSonic,11401,1564,372,Other,2021-10-08T09:19:31Z,16215,public
+zuul,https://github.com/Netflix/zuul,11379,2118,1126,Apache License 2.0,2021-10-08T11:44:58Z,4229,public
+jib,https://github.com/GoogleContainerTools/jib,11191,1130,2020,Apache License 2.0,2021-10-08T11:52:46Z,15752,public
+SlidingMenu,https://github.com/jfeinstein10/SlidingMenu,11185,5193,336,Apache License 2.0,2021-10-07T22:54:17Z,32085,public
+jdk,https://github.com/openjdk/jdk,11179,2758,66308,Other,2021-10-08T14:51:36Z,994515,public
+androidannotations,https://github.com/androidannotations/androidannotations,11174,2436,2932,Other,2021-10-08T02:43:42Z,22499,public
+Algorithms,https://github.com/williamfiset/Algorithms,11038,2956,1484,MIT License,2021-10-08T13:48:11Z,1030515,public
+flink-learning,https://github.com/zhisheng17/flink-learning,10947,2971,377,Apache License 2.0,2021-10-08T14:33:48Z,43189,public
+caffeine,https://github.com/ben-manes/caffeine,10517,1096,1338,Apache License 2.0,2021-10-08T12:58:52Z,101992,public
+guice,https://github.com/google/guice,10456,1496,1942,Apache License 2.0,2021-10-08T02:43:55Z,83063,public
+jd-gui,https://github.com/java-decompiler/jd-gui,10439,1939,253,GNU General Public License v3.0,2021-10-08T09:39:06Z,56989,public
+JiaoZiVideoPlayer,https://github.com/lipangit/JiaoZiVideoPlayer,10403,2420,1858,MIT License,2021-10-08T07:28:07Z,143896,public
+okhttp-OkGo,https://github.com/jeasonlzy/okhttp-OkGo,10386,2518,250,Apache License 2.0,2021-10-07T03:53:13Z,84860,public
+FileDownloader,https://github.com/lingochamp/FileDownloader,10325,2083,834,Apache License 2.0,2021-10-08T13:29:04Z,40720,public
+RxPermissions,https://github.com/tbruyelle/RxPermissions,10250,1283,228,Apache License 2.0,2021-10-08T06:48:40Z,587,public
+ViewPagerIndicator,https://github.com/JakeWharton/ViewPagerIndicator,10237,4147,241,None,2021-10-08T13:36:06Z,8657,public
+keycloak,https://github.com/keycloak/keycloak,10215,3957,13499,Apache License 2.0,2021-10-08T14:10:35Z,166089,public
+MVPArms,https://github.com/JessYanCoding/MVPArms,10122,2424,1078,Apache License 2.0,2021-10-08T06:07:01Z,5966,public
+fullstack-tutorial,https://github.com/frank-lam/fullstack-tutorial,10116,2293,841,None,2021-10-08T10:00:17Z,65612,public
+jedis,https://github.com/redis/jedis,10062,3468,1849,MIT License,2021-10-08T10:20:48Z,10318,public
+openapi-generator,https://github.com/OpenAPITools/openapi-generator,9913,3461,16191,Apache License 2.0,2021-10-08T14:49:26Z,572667,public
+ImmersionBar,https://github.com/gyf-dev/ImmersionBar,9891,1694,0,Apache License 2.0,2021-10-08T11:29:14Z,298815,public
+platform_frameworks_base,https://github.com/aosp-mirror/platform_frameworks_base,9737,5989,654719,Other,2021-10-08T11:10:37Z,2903744,public
+mall-learning,https://github.com/macrozheng/mall-learning,9721,6907,499,Apache License 2.0,2021-10-08T08:48:45Z,39121,public
+SmarterStreaming,https://github.com/daniulive/SmarterStreaming,9718,2578,1485,None,2021-10-06T15:41:19Z,6823329,public
+DataX,https://github.com/alibaba/DataX,9716,3489,184,Other,2021-10-08T08:58:35Z,19384,public
+Fragmentation,https://github.com/YoKeyword/Fragmentation,9712,2138,612,Apache License 2.0,2021-10-08T07:30:35Z,29343,public
+AVLoadingIndicatorView,https://github.com/HarlonWang/AVLoadingIndicatorView,9566,1856,97,None,2021-10-08T06:50:29Z,14399,public
+glide-transformations,https://github.com/wasabeef/glide-transformations,9483,1383,239,Apache License 2.0,2021-10-08T07:12:58Z,26509,public
+auto,https://github.com/google/auto,9429,1108,1344,Apache License 2.0,2021-10-08T08:58:07Z,12421,public
+react-native-camera,https://github.com/react-native-camera/react-native-camera,9424,3098,1695,Other,2021-10-08T07:28:34Z,19444,public
+neo4j,https://github.com/neo4j/neo4j,9365,2048,71736,Other,2021-10-08T08:15:42Z,533105,public
+thingsboard,https://github.com/thingsboard/thingsboard,9336,3103,8193,Other,2021-10-08T12:29:50Z,126341,public
+AndroidSlidingUpPanel,https://github.com/umano/AndroidSlidingUpPanel,9336,2335,361,Apache License 2.0,2021-10-08T03:52:22Z,2861,public
+spark,https://github.com/perwendel/spark,9187,1523,1062,Apache License 2.0,2021-10-07T20:03:11Z,2486,public
+javapoet,https://github.com/square/javapoet,9172,1177,846,Apache License 2.0,2021-10-08T13:53:21Z,1864,public
+paascloud-master,https://github.com/paascloud/paascloud-master,9137,4220,46,Apache License 2.0,2021-10-08T05:57:40Z,16081,public
+Mycat-Server,https://github.com/MyCATApache/Mycat-Server,9088,3869,2843,GNU General Public License v2.0,2021-10-08T13:49:36Z,19457,public
+CtCI-6th-Edition,https://github.com/careercup/CtCI-6th-Edition,9074,3788,393,None,2021-10-08T12:00:47Z,21487,public
+dex2jar,https://github.com/pxb1988/dex2jar,8982,1704,558,Apache License 2.0,2021-10-08T12:50:28Z,8684,public
+cas,https://github.com/apereo/cas,8982,3608,19943,Apache License 2.0,2021-10-08T10:52:48Z,290970,public
+android-gif-drawable,https://github.com/koral--/android-gif-drawable,8948,1738,1138,Other,2021-10-08T05:48:19Z,5856,public
+storm,https://github.com/nathanmarz/storm,8942,1723,1764,Apache License 2.0,2021-10-03T23:14:20Z,27015,public
+MagicIndicator,https://github.com/hackware1993/MagicIndicator,8881,1441,167,None,2021-10-08T02:41:18Z,54733,public
+zaproxy,https://github.com/zaproxy/zaproxy,8872,1745,8145,Apache License 2.0,2021-10-08T13:19:45Z,188317,public
+Android-PullToRefresh,https://github.com/chrisbanes/Android-PullToRefresh,8812,4837,477,Apache License 2.0,2021-09-23T15:31:53Z,4286,public
+Java,https://github.com/DuGuQiuBai/Java,8760,4041,33,Artistic License 2.0,2021-10-08T13:13:31Z,24346,public
+quarkus,https://github.com/quarkusio/quarkus,8626,1559,25287,Apache License 2.0,2021-10-08T14:45:06Z,132049,public
+Java-WebSocket,https://github.com/TooTallNate/Java-WebSocket,8461,2276,1084,MIT License,2021-10-08T14:30:20Z,4033,public
+OpenRefine,https://github.com/OpenRefine/OpenRefine,8391,1542,6103,"BSD 3-Clause ""New"" or ""Revised"" License",2021-10-08T08:42:55Z,384697,public
+AndroidNote,https://github.com/GcsSloop/AndroidNote,8390,2010,1375,None,2021-10-08T14:11:33Z,7036,public
+AgentWeb,https://github.com/Justson/AgentWeb,8275,1508,706,Apache License 2.0,2021-10-08T09:16:20Z,29420,public
+MaterialViewPager,https://github.com/florent37/MaterialViewPager,8230,1519,311,Apache License 2.0,2021-10-04T12:04:48Z,19557,public
+VirtualApp,https://github.com/asLody/VirtualApp,8190,2557,1292,None,2021-10-08T15:11:42Z,34164,public
+CoreNLP,https://github.com/stanfordnlp/CoreNLP,8165,2595,16713,Other,2021-10-07T22:23:56Z,341580,public
+android-gpuimage,https://github.com/cats-oss/android-gpuimage,8123,2117,438,None,2021-10-08T14:32:36Z,1368,public
+buck,https://github.com/facebook/buck,8083,1180,22687,Apache License 2.0,2021-10-08T14:53:08Z,1602948,public
+Activiti,https://github.com/Activiti/Activiti,8068,6519,10764,Apache License 2.0,2021-10-08T09:47:43Z,122700,public
+dropwizard,https://github.com/dropwizard/dropwizard,8040,3331,6009,Apache License 2.0,2021-10-08T06:26:37Z,104307,public
+Android-SpinKit,https://github.com/ybq/Android-SpinKit,8026,1264,78,Other,2021-10-08T13:17:43Z,10241,public
+atlas,https://github.com/alibaba/atlas,8012,1509,1214,Apache License 2.0,2021-10-06T17:22:57Z,84497,public
+newbee-mall,https://github.com/newbee-ltd/newbee-mall,7963,2054,74,GNU General Public License v3.0,2021-10-08T14:20:41Z,35285,public
+android-interview-questions,https://github.com/MindorksOpenSource/android-interview-questions,7913,1656,317,Apache License 2.0,2021-10-08T11:04:35Z,1221,public
+HomeMirror,https://github.com/HannahMitt/HomeMirror,7909,699,0,Apache License 2.0,2021-10-02T03:34:44Z,6207,public
+material-theme-jetbrains,https://github.com/ChrisRM/material-theme-jetbrains,7900,483,2956,Other,2021-10-08T10:40:49Z,147091,public
+Android-Debug-Database,https://github.com/amitshekhariitbhu/Android-Debug-Database,7892,825,323,Apache License 2.0,2021-10-08T14:36:11Z,1636,public
+jjwt,https://github.com/jwtk/jjwt,7814,1132,485,Apache License 2.0,2021-10-08T07:25:17Z,1830,public
+LitePal,https://github.com/guolindev/LitePal,7738,1575,449,Apache License 2.0,2021-10-06T10:03:51Z,5433,public
+hugo,https://github.com/JakeWharton/hugo,7714,802,121,Apache License 2.0,2021-10-08T03:31:27Z,201,public
+RxLifecycle,https://github.com/trello/RxLifecycle,7685,651,340,Apache License 2.0,2021-10-07T04:57:36Z,897,public
+hsweb-framework,https://github.com/hs-web/hsweb-framework,7676,2919,2650,Apache License 2.0,2021-10-04T08:42:17Z,32725,public
+epoxy,https://github.com/airbnb/epoxy,7562,628,453,Apache License 2.0,2021-10-08T14:52:15Z,33826,public
+RxJava-Android-Samples,https://github.com/kaushikgopal/RxJava-Android-Samples,7495,1390,335,Apache License 2.0,2021-10-08T09:15:40Z,1159,public
+metrics,https://github.com/dropwizard/metrics,7433,1779,3062,Apache License 2.0,2021-10-07T00:12:13Z,17672,public
+UltimateAndroidReference,https://github.com/aritraroy/UltimateAndroidReference,7386,1217,322,Apache License 2.0,2021-10-08T13:59:38Z,543,public
+resilience4j,https://github.com/resilience4j/resilience4j,7336,979,1350,Apache License 2.0,2021-10-08T09:55:44Z,7479,public
+react-native-image-picker,https://github.com/react-native-image-picker/react-native-image-picker,7318,1824,717,MIT License,2021-10-08T11:07:04Z,2173,public
+agera,https://github.com/google/agera,7293,663,0,Apache License 2.0,2021-10-07T09:09:30Z,968,public
+dagger,https://github.com/square/dagger,7275,3035,703,Apache License 2.0,2021-10-01T15:16:21Z,6861,public
+shardingsphere-elasticjob,https://github.com/apache/shardingsphere-elasticjob,7255,3083,0,Apache License 2.0,2021-10-08T10:52:15Z,43456,public
+Android-Bootstrap,https://github.com/Bearded-Hen/Android-Bootstrap,7246,1472,338,MIT License,2021-10-08T03:06:51Z,11507,public
+UltimateRecyclerView,https://github.com/cymcsg/UltimateRecyclerView,7243,1473,764,Apache License 2.0,2021-10-04T11:54:28Z,7153,public
+hellocharts-android,https://github.com/lecho/hellocharts-android,7221,1642,819,Apache License 2.0,2021-10-08T01:47:42Z,6126,public
+sweet-alert-dialog,https://github.com/pedant/sweet-alert-dialog,7212,1956,58,None,2021-10-07T07:10:39Z,1694,public
+tsunami-security-scanner,https://github.com/google/tsunami-security-scanner,7197,771,71,Apache License 2.0,2021-10-08T08:08:54Z,320,public
+ActionBarSherlock,https://github.com/JakeWharton/ActionBarSherlock,7179,3685,1480,Apache License 2.0,2021-10-01T21:10:44Z,21244,public
+TakePhoto,https://github.com/crazycodeboy/TakePhoto,7166,1501,0,Apache License 2.0,2021-10-08T07:23:21Z,11513,public
+vjtools,https://github.com/vipshop/vjtools,7160,1453,401,Apache License 2.0,2021-10-08T11:56:25Z,2067,public
+source-code-hunter,https://github.com/doocs/source-code-hunter,7153,1337,554,Creative Commons Attribution Share Alike 4.0 International,2021-10-08T11:32:59Z,66664,public
+WeChatLuckyMoney,https://github.com/geeeeeeeeek/WeChatLuckyMoney,7114,2268,199,Other,2021-10-08T12:48:15Z,660,public
+AndroidAsync,https://github.com/koush/AndroidAsync,7112,1552,1095,Other,2021-10-08T15:09:00Z,3681,public
+Signal-Server,https://github.com/signalapp/Signal-Server,7082,1659,1943,GNU Affero General Public License v3.0,2021-10-08T12:42:58Z,6921,public
+ShortcutBadger,https://github.com/leolin310148/ShortcutBadger,7078,1299,210,Other,2021-10-08T06:42:56Z,1231,public
+MyBookshelf,https://github.com/gedoor/MyBookshelf,7044,1826,6036,GNU General Public License v3.0,2021-10-08T09:41:21Z,27040,public
+subsampling-scale-image-view,https://github.com/davemorrissey/subsampling-scale-image-view,7030,1045,351,Apache License 2.0,2021-10-07T13:01:45Z,57935,public
+SmartTabLayout,https://github.com/ogaclejapan/SmartTabLayout,6961,1362,108,Apache License 2.0,2021-10-08T10:52:14Z,14671,public
+cassandra,https://github.com/apache/cassandra,6896,2956,26942,Apache License 2.0,2021-10-08T12:50:19Z,361416,public
+android-classyshark,https://github.com/google/android-classyshark,6883,857,610,Apache License 2.0,2021-10-08T10:56:17Z,24853,public
+RePlugin,https://github.com/Qihoo360/RePlugin,6865,1434,0,Apache License 2.0,2021-10-08T10:35:12Z,20483,public
+okhttputils,https://github.com/hongyangAndroid/okhttputils,6857,2418,79,Apache License 2.0,2021-09-27T06:04:42Z,17152,public
+otter,https://github.com/alibaba/otter,6830,2349,139,Apache License 2.0,2021-10-08T13:20:29Z,12027,public
+SpringCloud,https://github.com/zhoutaoo/SpringCloud,6809,3236,627,Apache License 2.0,2021-10-08T07:47:04Z,10016,public
+SpringCloud-Learning,https://github.com/dyc87112/SpringCloud-Learning,6790,2853,132,None,2021-10-05T15:38:56Z,1295,public
+AndroidPdfViewer,https://github.com/barteksc/AndroidPdfViewer,6789,1482,129,Apache License 2.0,2021-10-05T12:37:03Z,2741,public
+AndroidAutoLayout,https://github.com/hongyangAndroid/AndroidAutoLayout,6716,1938,0,Apache License 2.0,2021-09-26T09:31:57Z,7466,public
+DroidPlugin,https://github.com/DroidPluginTeam/DroidPlugin,6649,2541,224,GNU Lesser General Public License v3.0,2021-10-08T11:37:40Z,1859,public
+EhViewer,https://github.com/seven332/EhViewer,6633,993,2376,Apache License 2.0,2021-10-08T12:56:56Z,111228,public
+Timber,https://github.com/naman14/Timber,6624,2125,602,None,2021-10-07T15:56:06Z,17485,public
+closure-compiler,https://github.com/google/closure-compiler,6178,1082,17423,Apache License 2.0,2021-10-08T12:59:13Z,181632,public
+react-native-push-notification,https://github.com/zo0r/react-native-push-notification,6138,1882,816,MIT License,2021-10-08T11:47:52Z,1620,public
+SwipeBackLayout,https://github.com/ikew0ng/SwipeBackLayout,6133,1457,83,Apache License 2.0,2021-10-04T15:38:55Z,2934,public
+haven,https://github.com/guardianproject/haven,6086,728,986,GNU General Public License v3.0,2021-10-07T10:21:48Z,24393,public
+EffectiveAndroidUI,https://github.com/pedrovgs/EffectiveAndroidUI,6061,1237,0,Apache License 2.0,2021-10-08T06:18:30Z,991,public
+FrameworkBenchmarks,https://github.com/TechEmpower/FrameworkBenchmarks,6049,1652,12541,Other,2021-10-08T14:50:48Z,302601,public
+physical-web,https://github.com/google/physical-web,6039,713,0,Apache License 2.0,2021-10-08T06:12:05Z,33447,public
+processing,https://github.com/processing/processing,6016,1499,13208,Other,2021-10-07T11:30:46Z,1647979,public
+ansj_seg,https://github.com/NLPchina/ansj_seg,6003,2292,704,Apache License 2.0,2021-10-04T02:59:12Z,352501,public
+BookReader,https://github.com/smuyyh/BookReader,5980,1812,451,Apache License 2.0,2021-10-07T08:23:58Z,31912,public
+mybatis-generator-gui,https://github.com/zouzg/mybatis-generator-gui,5969,2349,267,None,2021-10-08T07:23:29Z,14954,public
+XPopup,https://github.com/li-xiaojun/XPopup,5959,968,925,Apache License 2.0,2021-10-08T06:35:51Z,153063,public
+NumberProgressBar,https://github.com/daimajia/NumberProgressBar,5944,1410,61,MIT License,2021-10-08T12:46:41Z,158,public
+xUtils3,https://github.com/wyouflf/xUtils3,5904,2001,697,Other,2021-10-08T08:37:28Z,9039,public
+react-native-video,https://github.com/react-native-video/react-native-video,5883,2225,1221,MIT License,2021-10-08T13:19:22Z,12977,public
+graylog2-server,https://github.com/Graylog2/graylog2-server,5858,915,19449,Other,2021-10-08T13:08:10Z,132581,public
+async-http-client,https://github.com/AsyncHttpClient/async-http-client,5832,1535,4101,Other,2021-10-01T04:06:04Z,18177,public
+j2objc,https://github.com/google/j2objc,5832,891,5397,Apache License 2.0,2021-10-05T20:03:47Z,100330,public
+springside4,https://github.com/springside/springside4,5805,3006,1074,Apache License 2.0,2021-10-02T18:13:28Z,4837,public
+motan,https://github.com/weibocom/motan,5735,1781,570,Other,2021-10-08T09:51:03Z,3685,public
+u2020,https://github.com/JakeWharton/u2020,5734,969,485,Apache License 2.0,2021-10-08T11:04:56Z,9385,public
+material-calendarview,https://github.com/prolificinteractive/material-calendarview,5727,1290,553,MIT License,2021-10-05T08:05:59Z,4823,public
+error-prone,https://github.com/google/error-prone,5721,641,5072,Apache License 2.0,2021-10-08T12:30:27Z,94955,public
+Shadow,https://github.com/Tencent/Shadow,5690,874,1500,Other,2021-10-08T06:56:23Z,3359,public
+metersphere,https://github.com/metersphere/metersphere,5661,1305,8892,GNU General Public License v2.0,2021-10-08T13:03:36Z,99949,public
+cachecloud,https://github.com/sohutv/cachecloud,5654,1910,434,Apache License 2.0,2021-10-08T15:06:37Z,44206,public
+tomcat,https://github.com/apache/tomcat,5638,3823,23655,Apache License 2.0,2021-10-08T08:45:16Z,132652,public
+richeditor-android,https://github.com/wasabeef/richeditor-android,5638,1125,170,Apache License 2.0,2021-10-07T19:31:51Z,2898,public
+JFoenix,https://github.com/sshahine/JFoenix,5636,1014,1325,MIT License,2021-10-08T09:54:36Z,28238,public
+FEBS-Shiro,https://github.com/febsteam/FEBS-Shiro,5600,2219,297,Apache License 2.0,2021-10-08T09:50:09Z,12668,public
+jmeter,https://github.com/apache/jmeter,5581,1594,17495,Apache License 2.0,2021-10-08T08:54:25Z,91050,public
+jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo,5575,1504,1221,Other,2021-10-08T05:08:37Z,10985,public
+blade,https://github.com/lets-blade/blade,5553,1135,769,Apache License 2.0,2021-10-07T14:01:26Z,5315,public
+circular-progress-button,https://github.com/dmytrodanylyk/circular-progress-button,5525,1207,101,MIT License,2021-10-07T07:05:01Z,742,public
+ssm,https://github.com/liyifeng1994/ssm,5519,2726,28,MIT License,2021-10-08T06:34:17Z,12364,public
+StickyListHeaders,https://github.com/emilsjolander/StickyListHeaders,5513,1560,414,Apache License 2.0,2021-10-04T15:18:39Z,3866,public
+FastHub,https://github.com/k0shk0sh/FastHub,5501,937,1879,GNU General Public License v3.0,2021-10-08T14:36:11Z,19973,public
+freeline,https://github.com/alibaba/freeline,5483,636,0,"BSD 3-Clause ""New"" or ""Revised"" License",2021-10-08T01:09:47Z,75385,public
+disconf,https://github.com/knightliao/disconf,5478,2325,1165,Apache License 2.0,2021-10-04T15:57:51Z,8619,public
+aurora-imui,https://github.com/jpush/aurora-imui,5475,964,1197,MIT License,2021-09-30T11:14:53Z,11487,public
+netty-socketio,https://github.com/mrniko/netty-socketio,5475,1452,844,Apache License 2.0,2021-10-08T14:45:41Z,1963,public
+rebound,https://github.com/facebookarchive/rebound,5473,861,125,Other,2021-09-17T07:11:07Z,23623,public
+debezium,https://github.com/debezium/debezium,5470,1443,5607,Other,2021-10-08T13:21:46Z,22663,public
+mosby,https://github.com/sockeqwe/mosby,5459,855,604,Apache License 2.0,2021-10-08T13:24:08Z,26564,public
+barcodescanner,https://github.com/dm77/barcodescanner,5419,1419,0,Other,2021-10-05T14:41:07Z,10971,public
+languagetool,https://github.com/languagetool-org/languagetool,5415,829,0,GNU Lesser General Public License v2.1,2021-10-08T15:09:07Z,2266195,public
+zeppelin,https://github.com/apache/zeppelin,5408,2547,4994,Apache License 2.0,2021-10-08T14:09:24Z,98592,public
+SystemBarTint,https://github.com/jgilfelt/SystemBarTint,5407,1495,63,Apache License 2.0,2021-10-06T11:15:44Z,1099,public
+config,https://github.com/lightbend/config,5400,885,1021,None,2021-10-08T09:07:41Z,4393,public
+Spring-Cloud-Platform,https://github.com/wxiaoqi/Spring-Cloud-Platform,5387,2200,357,Other,2021-10-08T01:18:26Z,212253,public
+javacv,https://github.com/bytedeco/javacv,5386,1325,522,Other,2021-10-08T09:39:45Z,6541,public
+springfox,https://github.com/springfox/springfox,5360,1459,3755,Apache License 2.0,2021-10-08T11:07:08Z,186078,public
+incubator-shenyu,https://github.com/apache/incubator-shenyu,5344,1822,1582,Apache License 2.0,2021-10-08T10:38:35Z,26172,public
+robolectric,https://github.com/robolectric/robolectric,5334,1271,11831,Other,2021-10-07T04:33:27Z,51739,public
+Fast-Android-Networking,https://github.com/amitshekhariitbhu/Fast-Android-Networking,5312,936,561,Apache License 2.0,2021-10-08T05:58:11Z,2813,public
+testcontainers-java,https://github.com/testcontainers/testcontainers-java,5297,1039,2922,MIT License,2021-10-08T12:20:55Z,6246,public
+twoway-view,https://github.com/lucasr/twoway-view,5276,1056,0,None,2021-09-18T17:06:54Z,2554,public
+from-java-to-kotlin,https://github.com/MindorksOpenSource/from-java-to-kotlin,5274,738,152,Apache License 2.0,2021-10-04T09:36:38Z,315,public
+XRecyclerView,https://github.com/XRecyclerView/XRecyclerView,5272,1281,122,None,2021-10-02T08:15:52Z,6529,public
+pentaho-kettle,https://github.com/pentaho/pentaho-kettle,5259,2728,22474,Apache License 2.0,2021-10-08T09:34:25Z,577932,public
+alluxio,https://github.com/Alluxio/alluxio,5254,2513,32251,Apache License 2.0,2021-10-08T12:31:57Z,136528,public
+Java-Tutorial,https://github.com/h2pl/Java-Tutorial,5245,1318,96,None,2021-10-08T13:21:40Z,2085,public
+cw-omnibus,https://github.com/commonsguy/cw-omnibus,5242,3860,1078,Apache License 2.0,2021-10-05T14:43:50Z,75165,public
+VitamioBundle,https://github.com/yixia/VitamioBundle,5239,2122,0,Other,2021-10-04T02:15:24Z,186316,public
+tcc-transaction,https://github.com/changmingxie/tcc-transaction,5227,2693,234,Apache License 2.0,2021-10-06T04:35:23Z,2989,public
+graphql-java,https://github.com/graphql-java/graphql-java,5213,946,2856,MIT License,2021-10-08T07:13:04Z,10420,public
+otto,https://github.com/square/otto,5208,919,0,Apache License 2.0,2021-10-01T21:10:46Z,703,public
+FloatingActionButton,https://github.com/Clans/FloatingActionButton,5192,1146,154,Apache License 2.0,2021-10-04T16:44:17Z,3389,public
+dubbo-spring-boot-project,https://github.com/apache/dubbo-spring-boot-project,5191,1777,287,Apache License 2.0,2021-10-08T06:55:30Z,1608,public
+Side-Menu.Android,https://github.com/Yalantis/Side-Menu.Android,5180,1533,63,Apache License 2.0,2021-10-07T06:57:40Z,1048,public
+SDE-Interview-Questions,https://github.com/twowaits/SDE-Interview-Questions,5174,1562,363,MIT License,2021-10-08T14:30:21Z,1457,public
+wechat,https://github.com/motianhuo/wechat,5151,2259,71,None,2021-10-04T07:21:09Z,96503,public
+titan,https://github.com/thinkaurelius/titan,5148,1040,4434,Apache License 2.0,2021-10-06T05:56:47Z,91250,public
+SwipeRecyclerView,https://github.com/yanzhenjie/SwipeRecyclerView,5135,1061,108,Apache License 2.0,2021-10-02T08:15:51Z,29347,public
+camerakit-android,https://github.com/CameraKit/camerakit-android,5123,849,512,MIT License,2021-10-08T14:06:15Z,21842,public
+MagicCamera,https://github.com/wuhaoyu1990/MagicCamera,5115,1560,36,None,2021-10-08T06:29:07Z,17476,public
+onemall,https://github.com/YunaiV/onemall,5071,1839,950,Other,2021-10-08T11:43:28Z,10130,public
+micronaut-core,https://github.com/micronaut-projects/micronaut-core,5057,837,10845,Apache License 2.0,2021-10-07T23:07:33Z,77449,public
+Dexter,https://github.com/Karumi/Dexter,5052,641,298,Apache License 2.0,2021-10-07T11:38:57Z,2928,public
+InstaMaterial,https://github.com/frogermcs/InstaMaterial,5044,1509,0,Apache License 2.0,2021-10-04T13:24:34Z,4531,public
+Blurry,https://github.com/wasabeef/Blurry,5033,586,125,Apache License 2.0,2021-10-02T12:51:27Z,2283,public
+UltraViewPager,https://github.com/alibaba/UltraViewPager,5026,687,87,MIT License,2021-09-27T07:10:39Z,8873,public
+beam,https://github.com/apache/beam,5018,3199,33174,Other,2021-10-08T10:46:04Z,245175,public
+android-common,https://github.com/Trinea/android-common,4989,2718,300,None,2021-10-08T06:43:20Z,1245,public
+ctci,https://github.com/careercup/ctci,4985,2340,0,None,2021-10-05T09:27:50Z,2169,public
+RippleEffect,https://github.com/traex/RippleEffect,4969,1105,110,MIT License,2021-10-08T08:15:41Z,833,public
+MinecraftForge,https://github.com/MinecraftForge/MinecraftForge,4962,2216,7889,Other,2021-10-08T14:14:03Z,104854,public
+spring-mvc-showcase,https://github.com/spring-projects/spring-mvc-showcase,4960,3804,76,None,2021-10-07T08:40:12Z,682,public
+dialogplus,https://github.com/orhanobut/dialogplus,4932,806,183,Apache License 2.0,2021-10-06T08:34:16Z,6790,public
+NavigationTabBar,https://github.com/Devlight/NavigationTabBar,4906,881,88,Apache License 2.0,2021-10-01T13:49:31Z,389,public
+zxing-android-embedded,https://github.com/journeyapps/zxing-android-embedded,4903,1147,1278,Apache License 2.0,2021-10-08T01:14:20Z,8325,public
+android-zxingLibrary,https://github.com/yipianfengye/android-zxingLibrary,4882,1033,0,None,2021-09-30T09:49:12Z,10170,public
+folding-cell-android,https://github.com/Ramotion/folding-cell-android,4854,852,131,MIT License,2021-09-30T10:34:21Z,26341,public
+ZXBlog,https://github.com/ZXZxin/ZXBlog,4853,1339,933,None,2021-10-08T09:45:18Z,251070,public
+questdb,https://github.com/questdb/questdb,4848,263,3110,Apache License 2.0,2021-10-08T12:26:56Z,411747,public
+Transitions-Everywhere,https://github.com/andkulikov/Transitions-Everywhere,4836,502,326,Apache License 2.0,2021-10-08T10:16:59Z,1247,public
+lucida,https://github.com/claritylab/lucida,4835,922,0,Other,2021-10-02T16:21:24Z,1352331,public
+junit5,https://github.com/junit-team/junit5,4813,1081,6968,Other,2021-10-07T20:05:13Z,620089,public
+GravitySnapHelper,https://github.com/rubensousa/GravitySnapHelper,4803,617,153,Apache License 2.0,2021-10-08T14:16:50Z,83050,public
+generator,https://github.com/mybatis/generator,4796,2442,1359,None,2021-10-08T10:45:07Z,46456,public
