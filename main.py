@@ -5,7 +5,7 @@ import requests
 
 repo_number = 0
 
-def access_repo(url):
+def access_repo(url, repo_number):
     response = requests.get(url)
     print(response.status_code)
     repos = response.json()
@@ -45,6 +45,6 @@ if __name__ == '__main__':
         url1 = "https://gh-trending-api.herokuapp.com/repositories/java?since=monthly&spoken_language_code=en"
         url2 = "https://gh-trending-api.herokuapp.com/repositories/java?since=weekly&spoken_language_code=en"
         url3 = "https://gh-trending-api.herokuapp.com/repositories/java?since=daily&spoken_language_code=en"
-        access_repo(url1)
-        access_repo(url2)
-        access_repo(url3)
+        access_repo(url1, repo_number)
+        access_repo(url2, repo_number)
+        access_repo(url3, repo_number)
