@@ -2,3 +2,5 @@
 venv/
 ENV/
 .idea
+pmd/metrics/*
+pmd/cache/*

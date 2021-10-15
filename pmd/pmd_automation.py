@@ -1,5 +1,8 @@
 import csv
 import os
+import subprocess
+
+projects_directory = r'/Users/melissaheredia/metrics-workspace/metrics/projects'
 
 
 def parse_rows():
@@ -13,14 +16,18 @@ def parse_rows():
     print(map_rule_count)
 
 
+def get_metrics_data():
+    print("Getting Metrics Data!")
+    process = subprocess.Popen(["sh", "getPmdData.sh"])
+    process.wait()
+    print("Getting Metrics Data Completed!")
+
+
 if __name__ == '__main__':
-    directory = r'/Users/melissaheredia/metrics-workspace/metrics/projects'
-    for entry in os.scandir(directory):
+    get_metrics_data()
+    for entry in os.scandir(projects_directory):
         file_path = entry.path
         if file_path.endswith(".csv") and entry.is_file():
             print(entry.name.split(".")[0])
             with open(file_path, 'r') as csvfile:
                 parse_rows()
-
-
-
