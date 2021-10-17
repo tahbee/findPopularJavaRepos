@@ -3,6 +3,7 @@ import os
 import subprocess
 
 projects_directory = r'/Users/melissaheredia/metrics-workspace/metrics/projects'
+metrics_directory = r'/Users/melissaheredia/PycharmProjects/pythonProject/pmd/metrics'
 
 
 def parse_rows():
@@ -25,7 +26,7 @@ def get_metrics_data():
 
 if __name__ == '__main__':
     get_metrics_data()
-    for entry in os.scandir(projects_directory):
+    for entry in os.scandir(metrics_directory):
         file_path = entry.path
         if file_path.endswith(".csv") and entry.is_file():
             print(entry.name.split(".")[0])
