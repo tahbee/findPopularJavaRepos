@@ -1,10 +1,19 @@
 <?xml version="1.0"?>
-<ruleset name="quickstart"
+<ruleset name="all-java"
          xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
     <description>Quickstart configuration of PMD. Includes the rules that are most likely to apply everywhere.</description>
 
+    <rule ref="category/java/bestpractices.xml" />
+    <rule ref="category/java/codestyle.xml" />
+    <rule ref="category/java/design.xml" />
+    <rule ref="category/java/documentation.xml" />
+    <rule ref="category/java/errorprone.xml" />
+    <rule ref="category/java/multithreading.xml" />
+    <rule ref="category/java/performance.xml" />
+    <rule ref="category/java/security.xml" />
+t
     <!-- <rule ref="category/java/bestpractices.xml/AbstractClassWithoutAbstractMethod" /> -->
     <!-- <rule ref="category/java/bestpractices.xml/AccessorClassGeneration" /> -->
     <!-- <rule ref="category/java/bestpractices.xml/AccessorMethodGeneration" /> -->
@@ -121,7 +130,7 @@
 <!--    <rule ref="category/java/design.xml/AvoidDeeplyNestedIfStmts" />-->
 <!--    <rule ref="category/java/design.xml/AvoidRethrowingException" />-->
 <!--    <rule ref="category/java/design.xml/AvoidThrowingNewInstanceOfSameException" />-->
-<!--   <rule ref="category/java/design.xml/AvoidThrowingNullPointerException" />&ndash;&gt;-->
+<!--   <rule ref="category/java/design.xml/AvoidThrowingNullPointerException" />-->
 <!--    <rule ref="category/java/design.xml/AvoidThrowingRawExceptionTypes" />-->
 <!--    <rule ref="category/java/design.xml/AvoidUncheckedExceptionsInSignatures" />-->
 <!--    <rule ref="category/java/design.xml/ClassWithOnlyPrivateConstructorsShouldBeFinal"/>-->
@@ -134,11 +143,12 @@
 <!--    <rule ref="category/java/design.xml/ExceptionAsFlowControl" />-->
 <!--    <rule ref="category/java/design.xml/ExcessiveClassLength" />-->
 <!--    <rule ref="category/java/design.xml/ExcessiveImports" />-->
-    <rule ref="category/java/design.xml/ExcessiveMethodLength" />
+<!--    <rule ref="category/java/design.xml/ExcessiveMethodLength" />-->
 <!--    <rule ref="category/java/design.xml/ExcessiveParameterList" />-->
 <!--    <rule ref="category/java/design.xml/ExcessivePublicCount" />-->
 <!--    <rule ref="category/java/design.xml/FinalFieldCouldBeStatic"/>-->
-    <rule ref="category/java/design.xml/GodClass" />
+<!--    <rule ref="category/java/design.xml/GodClass" />-->
+<!--    <rule ref="category/java/design.xml/Atfd" />-->
 <!--    <rule ref="category/java/design.xml/ImmutableField" />-->
 <!--    <rule ref="category/java/design.xml/LawOfDemeter" />-->
 <!--    <rule ref="category/java/design.xml/LogicInversion"/>-->
