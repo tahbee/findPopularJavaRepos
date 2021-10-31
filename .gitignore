@@ -4,3 +4,4 @@ ENV/
 .idea
 pmd/metrics/*
 pmd/cache/*
+pmd/.gradle
