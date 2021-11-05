@@ -13,15 +13,21 @@ if __name__ == '__main__':
         if not repo.name.startswith('.'):
             for file in os.scandir(repo_path):
                 if file.name.startswith("build.gradle"):
+                    print(file.name)
                     print("Gradle Project")
-                    process = subprocess.Popen(["gradle", "build"], cwd=repo_path)
+                    os.path.exists(file.path)
+                    process = subprocess.Popen(["./gradlew","clean", "build", "-x", "test"], cwd=repo_path)
                     process.wait()
+                    break
                 elif file.name.startswith("pom.xml"):
+                    print(file.name)
                     print("Maven Project")
-                    process = subprocess.Popen(["mvn", "build"], cwd=repo_path)
+                    process = subprocess.Popen(["mvn", "clean","install"], cwd=repo_path)
                     process.wait()
+                    break
                 else:
                     print("could not detect project")
+
 
 
 
