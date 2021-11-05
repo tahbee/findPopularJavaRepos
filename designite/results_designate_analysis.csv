@@ -1,6 +1,6 @@
 Project,Abstract Function Call From Constructor,Broken Hierarchy,Broken Modularization,Complex Conditional,Complex Method,Cyclic Hierarchy,Cyclic-Dependent Modularization,Deep Hierarchy,Deficient Encapsulation,Empty catch clause,Hub-like Modularization,Imperative Abstraction,Insufficient Modularization,Long Identifier,Long Method,Long Parameter List,Long Statement,Magic Number,Missing Hierarchy,Missing default,Multifaceted Abstraction,Rebellious Hierarchy,Unexploited Encapsulation,Unnecessary Abstraction,Unutilized Abstraction,Wide Hierarchy
 SpringCloud,0,31,0,0,1,0,0,0,9,0,0,0,135,1,0,1,4,56,0,0,16,45,0,0,0,0
-tinker,27,1153,0,143,183,7,91,3,97,2,0,0,236,91,28,42,39,82,70,0,14,443,0,1,83,0
+tinker,82,236,42,181,0,3,92,0,41,0,441,2,1,7,0,97,0,0,0,85,14,91,28,27,143,1144,70
 server,168,9846,0,295,134,4,161,0,134,5,0,0,499,372,22,113,103,38,32,0,27,1134,0,2,117,0
 retrofit,20,308,2,27,11,0,5,1,97,2,0,5,492,5,5,0,26,13,13,2,0,376,5,0,13,0
 react-native-push-notification,2,3,0,3,1,0,3,0,3,0,0,0,6,7,1,0,4,0,0,0,0,33,0,0,4,0

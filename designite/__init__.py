@@ -26,9 +26,12 @@ def parse_file():
                 rule = row[column_index]
                 map_rule_count[rule] = map_rule_count.get(rule, 0) + 1
 
+
+
+
 def write_to_results_file():
     all_keys_list=list(allKeys)
-    with open('results_designate_analysis.csv', mode='w') as result_file:
+    with open('results_designate_analysis_final.csv', mode='w') as result_file:
         writer = csv.writer(result_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         writer.writerow(["Project"] + sorted(all_keys_list))
 
@@ -42,10 +45,10 @@ def write_to_results_file():
 
             writer.writerow(num_code_smell)
 if __name__ == '__main__':
-    # print("Getting Metrics Data!")
-    # process = subprocess.Popen(["sh", "getDesignateData.sh"])
-    # process.wait()
-    # print("Getting Metrics Data Completed!")
+    print("Getting Metrics Data!")
+    process = subprocess.Popen(["sh", "getDesignateData.sh"])
+    process.wait()
+    print("Getting Metrics Data Completed!")
     # for repo in os.scandir(projects_directory):
     #     repo_name = repo.name
     #     print(repo_name)
@@ -68,6 +71,8 @@ if __name__ == '__main__':
             allKeys.add(key)
         print(entry.name.split('.')[0])
         map_project_count[repo_name]= map_rule_count
+        if 'Long Method' in map_rule_count:
+            print('Long Method: ' + str(map_rule_count['Long Method']))
 
     print(map_project_count)
     write_to_results_file()

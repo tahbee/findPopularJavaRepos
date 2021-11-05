@@ -3,5 +3,6 @@ venv/
 ENV/
 .idea
 pmd/metrics/*
+designite/metrics/*
 pmd/cache/*
-pmd/.gradle
+pmd/.gradle/*

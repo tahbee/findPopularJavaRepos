@@ -10,9 +10,7 @@ WMC_VERY_HIGH = 47
 FEW_THRESHOLD = 5
 ONE_THIRD_THRESHOLD = 1.0/3.0
 #based on pmd god class algorithm https://pmd.sourceforge.io/pmd-5.0.1/xref/net/sourceforge/pmd/lang/java/rule/design/GodClassRule.html
-def calculate_god_class():
-    atfdCounter=0
-    wmcCounter-0
+
 
 def parse_rows(name):
     csv_reader = csv.reader(csvfile)
@@ -59,7 +57,7 @@ def write_to_results_file():
 
 
 if __name__ == '__main__':
-    # get_metrics_data()
+    get_metrics_data()
 
     for entry in os.scandir(metrics_directory):
         file_path = entry.path
@@ -69,6 +67,6 @@ if __name__ == '__main__':
                 parse_rows(entry.name)
 
     all_keys_list= list(allKeys)
-    # write_to_results_file()
+    write_to_results_file()
 
 
