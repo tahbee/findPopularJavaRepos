@@ -125,8 +125,12 @@ def get_repo_info(repo):
         commits = commit_elements[1].getText().split()[0].replace(',', '')
         star_elements = soup.find_all('a', class_="social-count js-social-count")
         stars = star_elements[0].getText().split()[0]
+        if stars.find('k')!=-1:
+            stars=float(stars[:-1])*1000
         fork_elements = soup.find_all('a', class_="social-count")
         forks = fork_elements[1].getText().split()[0]
+        if forks.find('k') != -1:
+            forks = float(forks[:-1]) * 1000
     except IndexError:
         commits= "0" 
         stars= "0" 
