@@ -13,7 +13,6 @@ def calc_metrics(metrics):
     print("multimode: " + str(stat.multimode(metrics)))
     print("varience: " + str(stat.variance(metrics)))
     print("stdev: " + str(stat.stdev(metrics)))
-    print("quantiles: " + str(stat.quantiles(metrics)))
 
 
 if __name__ == '__main__':
