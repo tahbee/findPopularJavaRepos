@@ -2,15 +2,9 @@ import csv
 import os
 import subprocess
 
-projects_directory = r'/Users/melissaheredia/metrics-workspace/metrics/projects'
 metrics_directory = r'/Users/melissaheredia/PycharmProjects/pythonProject/pmd/metrics'
 project_map={}
 allKeys=set()
-WMC_VERY_HIGH = 47
-FEW_THRESHOLD = 5
-ONE_THIRD_THRESHOLD = 1.0/3.0
-#based on pmd god class algorithm https://pmd.sourceforge.io/pmd-5.0.1/xref/net/sourceforge/pmd/lang/java/rule/design/GodClassRule.html
-
 
 def parse_rows(name):
     csv_reader = csv.reader(csvfile)
