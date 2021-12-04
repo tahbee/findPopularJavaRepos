@@ -1,4 +1,4 @@
-**How to Deploy/ Run**
+**How to Run**
 
 _IMPORTANT: Reference instructions in the directory level README files to learn how to run a certain script._
 
