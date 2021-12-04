@@ -2,7 +2,7 @@ import csv
 import os
 import subprocess
 
-metrics_directory = r'/Users/melissaheredia/PycharmProjects/pythonProject/pmd/metrics'
+metrics_directory = r'REPLACE_WITH_METRICS_DIRECTORY'
 project_map={}
 allKeys=set()
 
