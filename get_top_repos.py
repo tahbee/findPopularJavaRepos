@@ -48,7 +48,7 @@ def get_repo_info():
 
 
 if __name__ == '__main__':
-    with open('results2.csv', mode='w') as result_file:
+    with open('results.csv', mode='w') as result_file:
         writer = csv.writer(result_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         writer.writerow(["name", "url", "starred", "forked", "commits", "license", "last-updated", "size", "visibility"])
         for page in range(1, 4):
