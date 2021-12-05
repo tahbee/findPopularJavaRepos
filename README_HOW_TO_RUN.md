@@ -1,4 +1,4 @@
-**How to Run**
+**How to Run the Scripts in this Repository**
 
 _IMPORTANT: Reference instructions in the directory level README files to learn how to run a certain script._
 
