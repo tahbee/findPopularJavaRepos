@@ -11,7 +11,7 @@ def calc_metrics(metrics):
     print("mean: " + str(stat.mean(metrics)))
     print("median: " + str(stat.median(metrics)))
     print("multimode: " + str(stat.multimode(metrics)))
-    print("varience: " + str(stat.variance(metrics)))
+    print("variance: " + str(stat.variance(metrics)))
     print("stdev: " + str(stat.stdev(metrics)))
 
 
